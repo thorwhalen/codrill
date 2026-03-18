@@ -1,0 +1,4 @@
+codrill
+=======
+.. automodule:: codrill
+   :members:
